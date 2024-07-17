@@ -14,7 +14,8 @@ You can install the required Python packages using pip:
 pip install pandas requests
 
 
-*Usage*
+## Usage
+
 Clone the repository:
 
 git clone https://github.com/vsmicrogenomics/bed-annotator.git
