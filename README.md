@@ -12,7 +12,7 @@ You can install the required Python packages using pip:
 
 ```sh
 pip install pandas requests
-
+```
 
 ## Usage
 
